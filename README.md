@@ -12,7 +12,7 @@ Mobile developer on flutter & Dart (Android), technical support on computers, SQ
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
 
-![Microsoft](https://img.shields.io/badge/-MICROSOFT-green/??style=for-the-badge&logo=microsoft&logoColor=white&labelColor=101010></br>
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</br>
  
 
 #### Where to find me: (Donde encontrarme)
