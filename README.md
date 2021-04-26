@@ -3,14 +3,17 @@
 Hey there I´m Elías Pujol Rodríguez TIC engineer. I'm a Jr developer. 
 Hola soy Elías Pujol Rodríguez ingeniero TIC. Soy un desarrollador Jr.
 
-#### I’m currently learning:
-(Estoy aprendiendo actualmente)
+#### I’m currently learning: (Estoy aprendiendo actualmente)
 Flutter & Dart, JS, HTML5, CSS, SQL
-#### My principal skills: 
-(Mis habilidades principales)
+
+#### My principal skills: (Mis habilidades principales)
 Mobile developer on flutter & Dart (Android), technical support, SQL, HTML5, JS
 (Mobile developer on flutter & Dart (Android), technical support, SQL, HTML5, JS)
 #### Where to find me: 
 (Donde encontrarme)
 [Facebook] (https://www.facebook.com/elias.pujolrodriguez/)
+
+#### Personal Skills:
+Teamwork, Adaptability, Problem resolution, Proactivity, Task Planning, Desire to learn, Passion for work, Moral values, Decision Making, Self Motivation
+(Trabajo en equipo, Adaptabilidad, Resolución de problemas, Proactividad, Planificación de tareas, Deseo de aprender, Pasión por el trabajo, Valores morales, Toma de decisiones, Auto motivación)
 
