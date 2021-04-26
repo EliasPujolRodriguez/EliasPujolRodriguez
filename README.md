@@ -12,8 +12,8 @@ Mobile developer on flutter & Dart (Android), technical support on computers, SQ
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
 
-![Microsoft Office](https://img.shields.io/badge/Microsoft Office-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
-
+![Microsoft](https://img.shields.io/badge/-MICROSOFT-green/??style=for-the-badge&logo=microsoft&logoColor=white&labelColor=101010></br>
+ 
 
 #### Where to find me: (Donde encontrarme)
 [Facebook] (https://www.facebook.com/elias.pujolrodriguez/)
