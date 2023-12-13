@@ -7,8 +7,8 @@ Hola soy Elías Pujol Rodríguez ingeniero TIC. Soy un desarrollador Jr.
 Flutter & Dart, JS, HTML5, CSS, SQL, Java
 
 #### My principal skills: (Mis habilidades principales)
-Mobile developer on flutter & Dart (Android), technical support on computers, SQL, HTML5, JS, MOS (Microsot Office expert) 
-(Desarrollador móvil en flutter & Dart (Android), soporte técnico en computadoras, SQL, HTML5, JS, MOS (Microsoft Office expert)
+Technical support on computers, SQL, HTML5, JS, MOS (Microsot Office expert), PHP, Python, Java
+(Desarrollador móvil en flutter & Dart (Android), soporte técnico en computadoras, SQL, HTML5, JS, MOS (Microsoft Office expert), PHP, Python, Java
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</br>
